@@ -1,7 +1,7 @@
 idade,nome,doses,doencas
-A qualquer tempo,Hepatite B (recombinante),Iniciar ou completar 3 doses, de acordo com situação vacinal,Hepatite B
-A qualquer tempo,Difteria e Tétano (dT),Iniciar ou completar 3 doses, de acordo com situação vacinal
-A qualquer tempo,Reforço a cada 10 anos, ou a cada 5 anos em caso de ferimentos graves ou se contato de difteria,Difteria e Tétano
-A qualquer tempo,Febre amarela (VFA - atenuada),Dose única caso não tenha recebido nenhuma até os 5 anos
-11 a 14 anos,HPV papilomavírus humano 6, 11, 16, 18 (HPV4 recombinante),* para adolescentes não vacinados, com 19 anos 11 meses e 29 dias deve-se realizar estratégias de resgate para vacinação da dose única, papilomavírus humano 6, 11, 16, 18
-11 a 14 anos,Meningocócica ACWY (MenACWY - conjugada),Uma dose,meningite
+99,Hepatite B (recombinante),Iniciar ou completar 3 doses, de acordo com situação vacinal,Hepatite B
+99,Difteria e Tétano (dT),Iniciar ou completar 3 doses, de acordo com situação vacinal
+99,Reforço a cada 10 anos, ou a cada 5 anos em caso de ferimentos graves ou se contato de difteria,Difteria e Tétano
+99,Febre amarela (VFA - atenuada),Dose única caso não tenha recebido nenhuma até os 5 anos
+14,HPV papilomavírus humano 6, 11, 16, 18 (HPV4 recombinante),* para adolescentes não vacinados, com 19 anos 11 meses e 29 dias deve-se realizar estratégias de resgate para vacinação da dose única, papilomavírus humano 6, 11, 16, 18
+14,Meningocócica ACWY (MenACWY - conjugada),Uma dose,meningite

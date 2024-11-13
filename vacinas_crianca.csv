@@ -1,32 +1,32 @@
 idade,nome,doses,doencas
-Ao nascer,BCG,Única,Formas graves da tuberculose (miliar e meníngea)
-Ao nascer,Hepatite B (recombinante),1ª dose,Hepatite B
-2 meses,Adsorvida DTP + Hepatite B + Hib (Penta),1ª dose,"Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B"
-2 meses,"Poliomielite 1, 2 e 3 (VIP)",1ª dose,Poliomielite
-2 meses,Pneumocócica 10-valente (Pneumo 10),1ª dose,Infecções invasivas e otite média (Streptococus pneumoniae)
-2 meses,Rotavírus humano (VRH),1ª dose,Diarreia por rotavírus
-3 meses,Meningocócica C (Meningo C),1ª dose,Doença invasiva pela Neisseria meningitidis do sorogrupo C
-4 meses,Adsorvida DTP + Hepatite B + Hib (Penta),2ª dose,"Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B"
-4 meses,"Poliomielite 1, 2 e 3 (VIP)",2ª dose,Poliomielite
-4 meses,Rotavírus humano (VRH),2ª dose,Diarreia por rotavírus
-5 meses,Meningocócica C (Meningo C),2ª dose,Doença invasiva pela Neisseria meningitidis do sorogrupo C
-6 meses,Adsorvida DTP + Hepatite B + Hib (Penta),3ª dose,"Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B"
-6 meses,"Poliomielite 1, 2 e 3 (VIP)",3ª dose,Poliomielite
-6 meses,Covid-19,1ª dose,Covid-19
-7 meses,Covid-19,2ª dose,Covid-19
-9 meses,Febre amarela (FA),Única,Febre amarela
-12 meses,Pneumocócica 10-valente (Pneumo 10),Reforço,Infecções invasivas e otite média (Streptococus pneumoniae)
-12 meses,Meningocócica C (Meningo C),Reforço,Doença invasiva pela Neisseria meningitidis do sorogrupo C
-12 meses,"Tríplice viral (sarampo, caxumba, rubéola)",1ª dose,"Sarampo, caxumba e rubéola"
-15 meses,Adsorvida DTP,1º reforço,"Difteria, tétano e coqueluche"
-15 meses,Poliomielite 1 e 3 (VOPb),1º reforço,Poliomielite
-15 meses,Hepatite A,1ª dose,Hepatite A
-15 meses,Tetraviral,Reforço,"Sarampo, caxumba, rubéola e varicela"
-4 anos,Adsorvida DTP,Reforço,"Difteria, tétano e coqueluche"
-4 anos,Febre amarela,Reforço,Febre amarela
-4 anos,Poliomielite 1 e 3 (VOPb),Reforço,Poliomielite
-4 anos,Varicela (monovalente),Reforço,Varicela
-5 anos,Pneumocócica 23-valente,2º reforço,Infecções invasivas pela bactéria pneumococo
-5 anos,Febre Amarela (FA),Única,Febre Amarela
-7 anos,Difteria e Tétano (dT),Única,Difteria e Tétano
-7 anos,Pneumocócica 10-valente (Pneumo 10),Única,Infecções invasivas e otite média (Streptococus pneumoniae)
+0,BCG,Única,Formas graves da tuberculose (miliar e meníngea)
+0,Hepatite B (recombinante),1ª dose,Hepatite B
+2,Adsorvida DTP + Hepatite B + Hib (Penta),1ª dose,Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B
+2,Poliomielite 1, 2 e 3 (VIP),1ª dose,Poliomielite
+2,Pneumocócica 10-valente (Pneumo 10),1ª dose,Infecções invasivas e otite média (Streptococus pneumoniae)
+2,Rotavírus humano (VRH),1ª dose,Diarreia por rotavírus
+3,Meningocócica C (Meningo C),1ª dose,Doença invasiva pela Neisseria meningitidis do sorogrupo C
+4,Adsorvida DTP + Hepatite B + Hib (Penta),2ª dose,Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B
+4,Poliomielite 1, 2 e 3 (VIP),2ª dose,Poliomielite
+4,Rotavírus humano (VRH),2ª dose,Diarreia por rotavírus
+5,Meningocócica C (Meningo C),2ª dose,Doença invasiva pela Neisseria meningitidis do sorogrupo C
+6,Adsorvida DTP + Hepatite B + Hib (Penta),3ª dose,Difteria, Tétano, Coqueluche, Hepatite B, infecções causadas pelo Haemophilus influenzae B
+6,Poliomielite 1, 2 e 3 (VIP),3ª dose,Poliomielite
+6,Covid-19,1ª dose,Covid-19
+7,Covid-19,2ª dose,Covid-19
+9,Febre amarela (FA),Única,Febre amarela
+12,Pneumocócica 10-valente (Pneumo 10),Reforço,Infecções invasivas e otite média (Streptococus pneumoniae)
+12,Meningocócica C (Meningo C),Reforço,Doença invasiva pela Neisseria meningitidis do sorogrupo C
+12,Tríplice viral (sarampo, caxumba, rubéola),1ª dose,Sarampo, caxumba e rubéola
+15,Adsorvida DTP,1º reforço,Difteria, tétano e coqueluche
+15,Poliomielite 1 e 3 (VOPb),1º reforço,Poliomielite
+15,Hepatite A,1ª dose,Hepatite A
+15,Tetraviral,Reforço,Sarampo, caxumba, rubéola e varicela
+48,Adsorvida DTP,Reforço,Difteria, tétano e coqueluche
+48,Febre amarela,Reforço,Febre amarela
+48,Poliomielite 1 e 3 (VOPb),Reforço,Poliomielite
+48,Varicela (monovalente),Reforço,Varicela
+60,Pneumocócica 23-valente,2º reforço,Infecções invasivas pela bactéria pneumococo
+60,Febre Amarela (FA),Única,Febre Amarela
+72,Difteria e Tétano (dT),Única,Difteria e Tétano
+72,Pneumocócica 10-valente (Pneumo 10),Única,Infecções invasivas e otite média (Streptococus pneumoniae)
