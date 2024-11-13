@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f4f8;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #555555;
+}
+
+input,
+select,
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #007bff;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+
+    &:hover {
+        background-color: #0056b3;
+    }
+}
+
+.result {
+    text-align: left;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+#result {
+    display: block;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#result h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #0073e6;
+}
+
+.vacina-info {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.vacina-info strong {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.vacina-item {
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.vacina-item h4 {
+    margin: 0;
+    font-size: 1em;
+    color: #0073e6;
+}
+
+.vacina-item p {
+    margin: 4px 0;
+    font-size: 0.95em;
+    color: #666;
+}
